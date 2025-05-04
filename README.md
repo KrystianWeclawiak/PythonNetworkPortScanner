@@ -39,7 +39,7 @@ cd PythonNetworkPortScanner
 ```
 2. Run the main.py file
 ```bash
-python3 main.py
+python main.py
 ```
 3. You will be prompted to enter the IP address of the target server and the port range you want to scan
 - Example input:
