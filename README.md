@@ -66,11 +66,4 @@ python main.py
 ## Contributing
 Feel free to open issues or contribute to the project by forking the repository and submitting pull requests
 
-### Example Contributions:
-- Command-line argument parsing:
-    - using `argparse`
-- Adding `ThreadPoolExecutor` for better memory and performance management
-- Adding more detailed error handling or logging for better diagnostics
-
-
 
