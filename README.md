@@ -1,4 +1,4 @@
-# PythonNetworkPortScanner
+# PythonNetworkPortScannerThreads
 
 A simple Python-based network port scanner project that's a part of my Blue Team "Introduction To Python" Certificate. It checks the open port on a remote server within a specified range. It can be used to check the availability of certain services on a server.
 
@@ -23,7 +23,7 @@ If you plan to extend this project, you may need additional libraries such as ar
 ## Installation
 1. Clone the repository to your local machine.
 ```bash
-git clone https://github.com/KrystianWeclawiak/PythonNetworkPortScanner.git
+git clone https://github.com/KrystianWeclawiak/PythonNetworkPortScannerThreads.git
 ```
 
 ## Configuration
@@ -35,7 +35,7 @@ git clone https://github.com/KrystianWeclawiak/PythonNetworkPortScanner.git
 ## Usage
 1. Navigate to the project directory
 ```bash
-cd PythonNetworkPortScanner
+cd PythonNetworkPortScannerThreads
 ```
 2. Run the main.py file
 ```bash
